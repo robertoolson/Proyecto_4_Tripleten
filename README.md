@@ -1,4 +1,4 @@
-# Car Sales Visualization Web App
+# Car Ads Sales Visualization Web App
 
 ## Overview
 This project aims to visualize car sales data through an interactive web application. It provides various graphical representations to offer insights.
